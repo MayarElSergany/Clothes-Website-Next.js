@@ -1,0 +1,55 @@
+.background{
+    background-image: url('../public/backgroundImage.png');
+}
+.border {
+    border: 2px solid grey;
+    border-radius: 6px;
+    text-align: center;
+    background-color: white;
+}
+
+.align {
+    text-align: center;
+}
+
+.input {
+    margin-left: 120px;
+    color: grey;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+
+}
+
+.container{ 
+    justify-content: center;
+    align-items: center;
+    align-content: center; 
+    margin: 0 auto;
+}
+
+.button {
+    border: none;
+    margin-left: 170px;
+    border-radius: 2px;
+    width: 35%;
+    height: 50px;
+    flex: 1 1 auto;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    background-image: linear-gradient(to right,  #cc205c 0%,#f6d365 51%, #b61460 100%);
+}
+
+
+.button:hover {
+    background-position: right center;
+  }
+
+
+  
+
+

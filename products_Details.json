@@ -1,0 +1,133 @@
+{"customers":[
+
+    {
+        "id": 1,
+        "title":"Short Dress",
+        "size": "2XL",
+        "color": "Crimson",
+        "description": "quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut",
+        "price": "$1.28",
+        "image": "https://d17a17kld06uk8.cloudfront.net/products/HRDB9BL/434TZH3H-large.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Long Armless Dress",
+        "size": "3XL",
+        "color": "Red",
+        "description": "placerat praesent blandit nam nulla integer pede justo lacinia eget",
+        "price": "$8.45",
+        "image": "https://pa.namshicdn.com/product/B6/JB7Z8801DC/3-zoom-desktop.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Long Strapless Dress",
+        "size": "M",
+        "color": "Turquoise",
+        "description": "non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui",
+        "price": "$2.86",
+        "image": "https://i.pinimg.com/474x/13/31/b9/1331b92ca66a751e4bfc1eef0d81e74e.jpg"
+    },
+    {
+        "id": 4,
+        "title":"Long Sleveless Dress",
+        "size": "M",
+        "color": "Light-Green",
+        "description": "bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis",
+        "price": "$7.84",
+        "image": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/R28940.jpg"
+    },
+    {
+        "id": 5,
+        "title":"Long Jumpsuit",
+        "size": "S",
+        "color": "Blue",
+        "description": "duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque",
+        "price": "$9.96",
+        "image": "https://www.cards-gate.com/image/cache/2021/11/08/1636355834603416659-590x730.jpg"
+    },
+    {
+        "id": 6,
+        "title":"Long Dress",
+        "size": "L",
+        "color": "Pink",
+        "description": "at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum",
+        "price": "$0.82",
+        "image": "https://peppermintmag.com/wp-content/uploads/2019/11/PeppermintSewingSchool44-A.jpg"
+    },
+    {
+        "id": 7,
+        "title":"Long White Dress",
+        "size": "XS",
+        "color": "White",
+        "description": "rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan",
+        "price": "$1.72",
+        "image": "https://onefinedayweddingfair.com.au/wp-content/uploads/2020/01/OFD_WeddingDressesBigBoobs_Hero.jpg"
+    },
+    {
+        "id": 8,
+        "title":"Short Sleeve Dress",
+        "size": "3XL",
+        "color": "Blue",
+        "description": "feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut",
+        "price": "$4.24",
+        "image": "https://www.twinset.com/on/demandware.static/-/Sites-master-catalog/default/dw6f52a4d1/images/TwinSet/Images/Catalog/221TP2732-00384-04.JPG"
+    },
+    {
+        "id": 9,
+        "title":"Long Sleeveless Dress",
+        "size": "XL",
+        "color": "White & Light-Blue",
+        "description": "ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",
+        "price": "$9.42",
+        "image": "https://i.pinimg.com/736x/22/a9/bd/22a9bd6b9501f90bc0be1113fa230d88.jpg"
+    },
+    {
+        "id": 10,
+        "size": "L",
+        "color": "Turquoise",
+        "description": "varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper",
+        "price": "$5.25",
+        "image": "https://www.promfy.com/uploads/product/1/8/18870/beaded-wide-straps-navy-blue-sequin-prom-dress-2.jpg"
+    },
+    {
+        "id": 11,
+        "size": "L",
+        "color": "Yellow",
+        "description": "convallis eget eleifend luctus ultricies eu nibh quisque id justo",
+        "price": "$9.98",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMtSURBVDjLVZNLa1xlAIafc5szk8xkMkkm5MKY2EpT2qa2MTVCmoLS2gq6EKooimAW7iQb/0I2bgTRIog0oFW7KQpCS7VqrSmmJGlSQtswqWlLLmbGmcmcZM6cy/edz00r6bt8eXh4N6+mlGJnxiZHR4APgSNAFjCBKjClInXm05Gzl3by2mPB2OSoCUwAp1/LHbcziSyO24gbgJAegg2urF8UUsifhZBvfvXK99v/C8YmRy3gt8G2/cMv517E8Wx8ApYcjZiyKbkRSgQkcFn3rzG9Nn1LhOLYt2/8UNUfLZkYaN0zfLRrkLIMCHUNIXTqIoZLjLJvU/ASrFQtnko+z2BH38HAD78DMConHh4FPn5nz6vGgqyxTp16JNj2kpR9C8eD/OoW1VoNO1NCS+d5oW0vV27f2PX11MS8MTR6+JOTXUMHNCPBui5AtdMpk8xsGNQ9ndur20TxCnbPIn5TnmJUwaxIDrTm9Jn7d1tM4EiuqZs5d41iXGefsZsIwYNCgOfVSXconJbLLEWb4CuahU2+6HO8d4DQF/0m0NpgNvLAXaPgu6QadrEZpKhUItJZj/aMS1EewvHnsdUWW/+WKG82kEykCAPRbCqlNE1B4DsocpiW5OJfIVoiyfqSQFdNdGXrpLZGcFZDPKYJg2VQCiGEZkoRlZ3A6W41mknFn2WlaOKFFrG4Tbw9wb2/S3g3miHySLdbNDd2kzYKVGpVpIiqugjF7P3yQ55pyLFWmCSyVokZPqHnEoYmsWQGuyWOGdexNIkRFOnqbGN5bRngjh4G4rMLd6+KnmQW012lWrpOJuNjCh9LU9i6gRkEZHIrpNv/QK8vcijXz5lfLijgS+PmuYV75+fPDXr1Wt9znfsouy5x+2miuoltW1iawBJV0o0/wT8lBvbv5WZ+gaWNlasz43MfmQChH777e37uT78eHDx5+BiLBROjqhDaFmGkQ1KS6+mlr7+XX2evc+nWVB54+4kznfr8pZQIxXkRyhPvDb9vIjtQqgFN12hLO2yUZ/ni8o8SuAa8NTM+t/GE4HGGx4del0J+IGXUH8ko86iuAneAszPjc9/s5P8DuO6ZcsXuRqAAAAAASUVORK5CYII="
+    },
+    {
+        "id": 12,
+        "size": "3XL",
+        "color": "Maroon",
+        "description": "scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus",
+        "price": "$9.94",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHMSURBVDjLpZNNS1VRGIWf67HQ8MZVEtLserNIsk8JA0f1F8JZ/oRG9RNs3ESaNQscFQ5KCoIiopGhhFDgHZRgZEIRSN3PvddqcI5memZu2Ow1WQ/Pu+Et2OYgp4MDns7tcH9hY0dFNgZiBAyWkCEqzVFw71a58B8AYLD3MMZYYMAyMngXRILPm7X9BtHGzgoC29iZTQaSjGRiO2eEGFNFbKSsuJ31P6Qdtf8THZXSBVFC0Sk0iv7CCtcOPSDxFlEmhBxAEFlJmU2aC7HBaZ4zXBmn4tcoGgXvBygoK21D0nzSbxgsT3B0YJyB8I6euEbIA4TAv6JMiKJbGwyFVxSPlYhbTxm6NM1IWEBq5wBizMrp/I6i3HrB4NhNaCyz+GiOnlKdvvoSw8lKnkGqrAAxmlL7E2f6GhR7a6j5BSzi7/ecunGXiWSexdnJ4h6DTF1GsU2l9phS+QqqrWDVuTo1ilrf6Oqqcu7ydUKzdWePgVhdr7G6/ofk+0sqI+c5UvyBw08oJCzNVwGhRpX+s8PEZvv225kLY4W8bVycnfx6cXruRNKxhsOvdCF2TZ10j7L58QPVZzNPOvM2LDRbXcsPp+qWsbTreudFwvbxvyYHcoBEg0hXAAAAAElFTkSuQmCC"
+    },
+    {
+        "id": 13,
+        "size": "3XL",
+        "color": "Orange",
+        "description": "id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at",
+        "price": "$1.72",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJISURBVDjLzZNdSBNQHMV98lHovfcSbS7NkshK0zSXKbqmtTHSLTUt1OVHEaUUis6H5kul4QeCIpig+IFFUEIo9jUttWJoyUAJbbvpcjrdfl3tpaAs6qUL5+XCOfec//9cP8DvX+D3fwj4LhVpJT5JiA14i03Ca8oX6xfyxNq5bOExGsSqXi9W0k8Jd6paLB9PWnAdPabbFJAEjYSL+wMwNARjY2CzweQk3sePWGhtxdHSwmJzM866euwWC/ZrZSwdPOJajIhM2hB4TsNd6OmBjg6YmIDRUejsxFtcjD0nh1mjEYfBwLxOx4vERN5WVWHLL0Ts3mffEAjxlZie+qorQb7GzAybZ3AQr1rNrErFx4QEPktMR0fzpqKCaWMWImTvnDNwt2ZzBjLvNpm331teBt3dMDcHVis+rZYFSXRKEWd8PFOVlbzPMCIUe6YcO5XKH7awlpMV4MnM7FsvLYXhYRgfxyeti9hYXHFxzJvNfJBkZ3DYlGOHYtdP17ii1QW4NWl9npLSbwJyBq6oKFZqajj/8AzZ/ToyutLQtafwyx4sn0gO+BKverB65Sq+9nbWqqtxFJg426ulbbKBltd1pDaq2LJIS4djti/uP2RbNRXhlmSZ163vUNP06hZ11lq0TanE1ERGbNlEERoRJPOO3LiZ6Na3pXgu9uZy+6WF2mdmCrpyOVAe7g6/rBz4bVVPtyX7S8u2vHsGLCNVmIeuk16fQliJ4p0iP9D/jzsvLY/pGk+iuZNMaFGw9a8+k7Q8oiwMevL93Ve6KsnKrbmJHAAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 14,
+        "size": "XS",
+        "color": "Red",
+        "description": "primis in faucibus orci luctus et ultrices posuere cubilia curae mauris",
+        "price": "$1.34",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKZSURBVDjLjY/Na1R3GIWf+zV3JolJ40iMptZMGrGtVLoQpK66qagLV0VwI3XThS4EQQQ31Y34F7gQFOqqdCMtdGGCRXAhQmskgVSNmYAOmkySmczHvTP33t/vfbsUkyl44OwOD+dxVJXNSWfHJ1X0oSqjKuKpkKjoPMK1/m8rv38wVtUt7cx81sre3VWN51Tbj1Ub05qt3NXmo92vNm99ekStDPifHILuWzB1yOq44TbEyOebtz0BYkGSCk62AdrFdpYgcbFmq+7/PFBs8x+ylftI0kbiBkHxMGLgIx8IbjhGMPglmiwjQR+igjWyFZDM7B1U0XkVGVXBU6uJow6m9S+mNod229i4RWHiYG8FsXLFH7k0Fuw8CdoFG4VZtEj84hqFHUfQ/DJeWAc12IxeAL3sjxwH0wTbBNvGL4yQRet47jzaaWGjFoEzgs16KFgDSISaNmiKJKuQdjBGyA1NovkqNqyxOrtB5S/D4u1ArKcV4ObRKXPDFyPYaAG78RRJV9DkDd7gBDZVktpzNI5Ye9Ygqo1x6MzPhKUDTmd2as/8o+nrT84WJlybKU5QxCuU8Pu/wB/4BtRiMiUc3kdu+y7e/F1l8rtT5Bcf4vxymr7yPcb3Fp24Zn70rREc1yWLF9DuOzRdIRw7gUnvkUVr2HoVUxfyoyU4cfG9+9VdSJvAtxm/ddZmTuW3fYUEw6DjxOtlvHA7tm83+Z0H8IZeEj/7k/4/zpF0lomBVtNDC07Hu/BD4VM3N3jMzQ/g+A5ZWqO1+pJWZeFB4/Xz+vqLpzt8vy+qvqqGbuCSeRGNdaW87OEPuVNO+ddiSQw/iZXvreVrMcyJ1Wmx3Dp4vr4EsHR7uFSby9/ZKK8dISKnBdKg6D0e2J87+x98zpgrhVsXPQAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 15,
+        "size": "M",
+        "color": "Green",
+        "description": "nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper",
+        "price": "$9.96",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJGSURBVDjLpZNLbMxxEMc//+42Sh/b7cOjEVXV165UDw7iSkIEFxcuEpc2JOJxQkIkHnFz4+Ikri6kRBsbKhLR6ksvJEokdotVVbZLdx4OW0pajcRcJvkl8/3N9zMzgbvzPxGe7/Hs4IkRM42rmqvq7fMbL+34m0DB3OLjFRjxppImGsoaAlHduFAHcwROtV0cn5bpTM5zZKYziMjwQgKBu3Nu6KSbKaqG5rO3RJsDMWEoNfxZRFVVC0SEq7uuR+cwUFMaixswN8wdxwI1wx1i1bGIuuJuPBl9Oj9EVUXdMDeSX98w8W0CccHcKQhCmDn1kQZE5C8CooykRygrjLCsuIYPU2nUNW/Hv6OmCEplSSW7r+10EUFE6WzvCoLf9+BIosNj1TFGPg6iZpgr4oa6UlYYYWXpKswcx0j0PeDugUTwxx6IKOqKaD7rTLGa0vjsJWsH7hBKjZGNljJZE521cPheu4so5UXlqBk5z+WZmCJmtD1LsSldQPPeoyyqi5Md7mLpw266txQeCv/8Ob6sBcV5NTlKrKL110TMjfreBE37T1P08j70nGNJpJw1tbX0P/ejYYCcCIIy+L6fdVXrGR17RTKdQlWpilSx4VOGouV1sP3YLP0zKwhZsDrfQU5QM+KVrYgayXSKG/tuBQDbrmz2bHkJU4OdFN88yPfsGFPAl8kQGiI5Y0HofdGHqDIzom+zYMUGVtcEVY97gtqKxYRDhXz5ILx+F6jjl4N/PedHe1Ydz4wnO0Ia1GrI3zpc2dolF34Ah+h1f9LfEqAAAAAASUVORK5CYII="
+    }
+]
+}
