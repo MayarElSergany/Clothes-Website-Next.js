@@ -30,11 +30,3 @@ Second, run the command to watch server:
 json-server --watch products_Details.json
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-
-## Learn More
-
-
-## Deploy on Vercel
-
-
